@@ -7,7 +7,9 @@ It has two parts that share one trained model:
   instant, explainable nightly-price estimate for any listing you describe.
 - **A FastAPI REST API** that serves the same predictions and filtered data as JSON.
 
-**Live app:** _add your Streamlit Community Cloud link here after deploying (see section 4)._
+**Live app:** https://liamkandel-nyc-airbnb-app-app-pevc0o.streamlit.app/  (no install needed; if it shows "This app has gone to sleep", click the button to wake it, about 30 seconds)
+
+**Source code:** https://github.com/liamkandel/nyc-airbnb-app
 
 ---
 
